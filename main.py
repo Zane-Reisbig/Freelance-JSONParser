@@ -350,7 +350,7 @@ def parseTurnList(replayList):
     case _:
       print("found new action")
       print(frame_name)
-      input("Figure out the new action from context and change it in the file or contact another programmer\notherwise live without it")
+      input("Figure out the new action from context and change it in the fileotherwise live without it")
     
        
 
